@@ -11,3 +11,7 @@ const ProfileSchema = new Schema({
     type: String,
     required: true,
     max: 40
+  },
+  company: {
+    type: String
+  },
