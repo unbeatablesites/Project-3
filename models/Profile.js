@@ -29,3 +29,10 @@ const ProfileSchema = new Schema({
     type: [String],
     required: true
   },
+  bio: {
+    type: String
+  },
+  githubusername: {
+    type: String
+  },
+ 
