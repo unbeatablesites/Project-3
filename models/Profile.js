@@ -101,3 +101,13 @@ const ProfileSchema = new Schema({
     twitter: {
       type: String
     },
+    facebook: {
+      type: String
+    },
+    linkedin: {
+      type: String
+    },
+    instagram: {
+      type: String
+    }
+  },
