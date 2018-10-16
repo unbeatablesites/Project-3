@@ -5,7 +5,7 @@
  Intention<br>To start with a bank text editor and end with a deployed full stack application.<br>
  Building an extensive backend API with Node.js & Express
 Protecting routes/endpoints with JWT (JSON Web Tokens)
- Extensive API testing with Postman 
+ Extensive API testing with Postman<br> 
 Integrating React with our backend in an elegant way, <br>
  <br>
 <br>
