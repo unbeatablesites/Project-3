@@ -6,7 +6,7 @@
  Building an extensive backend API with Node.js & Express
 Protecting routes/endpoints with JWT (JSON Web Tokens)
  Extensive API testing with Postman 
-<br>
+Integrating React with our backend in an elegant way, <br>
  <br>
 <br>
  <br>
