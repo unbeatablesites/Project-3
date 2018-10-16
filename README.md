@@ -7,6 +7,7 @@
 Protecting routes/endpoints with JWT (JSON Web Tokens)
  Extensive API testing with Postman<br> 
 Integrating React with our backend in an elegant way,creating a great workflow <br>
+ Building our frontend to work with the API Using Redux 
  <br>
 <br>
  <br>
